@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39dada81-c497-4422-b7bf-9309c199617f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge 3/read_s3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/çhallenge 1/4cb82c20117b.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/çhallenge 1/4cb82c2383ad.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/çhallenge 1/read_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/telematics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/telematics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/çhallenge 1/read_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/çhallenge 1/read_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +52,7 @@
       <recent name="C:\Users\PC\PycharmProjects\telematics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.read_s3">
+  <component name="RunManager" selected="Python.read_data">
     <configuration name="read_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="telematics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.read_s3" />
         <item itemvalue="Python.read_data" />
+        <item itemvalue="Python.read_s3" />
       </list>
     </recent_temporary>
   </component>
@@ -135,22 +128,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="190" key="GridCell.Tab.0.bottom" timestamp="1623002867748">
+    <state width="1345" height="296" key="GridCell.Tab.0.bottom" timestamp="1623003130771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623002867748" />
-    <state width="1345" height="190" key="GridCell.Tab.0.center" timestamp="1623002867748">
+    <state width="1345" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623003130771" />
+    <state width="1345" height="296" key="GridCell.Tab.0.center" timestamp="1623003130771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623002867748" />
-    <state width="1345" height="190" key="GridCell.Tab.0.left" timestamp="1623002867748">
+    <state width="1345" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623003130771" />
+    <state width="1345" height="296" key="GridCell.Tab.0.left" timestamp="1623003130771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623002867748" />
-    <state width="1345" height="190" key="GridCell.Tab.0.right" timestamp="1623002867748">
+    <state width="1345" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623003130771" />
+    <state width="1345" height="296" key="GridCell.Tab.0.right" timestamp="1623003130771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623002867748" />
+    <state width="1345" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623003130771" />
     <state width="1345" height="386" key="GridCell.Tab.1.bottom" timestamp="1623001308677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

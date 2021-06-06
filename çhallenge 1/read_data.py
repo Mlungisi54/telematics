@@ -20,7 +20,7 @@ def _set_types(data_frame):
     :type data_frame: pd.DataFrame
     """
     data_frame[["lat", "lon", "acc", "speed"]] = data_frame[["lat", "lon", "acc", "speed"]].apply(pd.to_numeric)
-    data_frame[["serverTime", "phoneTime", "ts"]] = pd.to_datetime(data_frame[["serverTime", "phoneTime", "ts"]])
+    # data_frame[["serverTime", "phoneTime", "ts"]] = pd.to_datetime(data_frame[["serverTime", "phoneTime", "ts"]])
     return data_frame
 
 
